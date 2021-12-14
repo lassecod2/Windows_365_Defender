@@ -1,1 +1,1 @@
-# Windows_365_Defender
+# Windows 365 Defender Suite notes
