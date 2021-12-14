@@ -1,6 +1,6 @@
 # Microsoft 365 Defender
 ## Sentinel
-![[Pasted image 20211104103852.png]]
+![Pasted image 20211104103852.png]
 
 ## The anatomy of an attack
 Microsoft 365 Defender is a Cloud-based, unified, pre- and post-breach enterprise defense suite. It coordinates _prevention_, _detection_, _investigation_, and _response_ across endpoints, identities, apps, email, collaborative applications, and all of their data.
