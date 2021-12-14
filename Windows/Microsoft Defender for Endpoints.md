@@ -12,7 +12,7 @@ Defender for Endpoint uses the following combination of technology built into Wi
 
 
 
-![[Pasted image 20211104104423.png]]
+![Defender for Endpoints](https://github.com/lassecod2/Windows_365_Defender/blob/main/Pasted%20image%2020211104104423.png)
 
 **[Threat & Vulnerability Management](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/next-gen-threat-and-vuln-mgt?view=o365-worldwide)**
 
