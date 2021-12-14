@@ -7,7 +7,7 @@ Microsoft 365 Defender is a Cloud-based, unified, pre- and post-breach enterpris
 
 In this illustration an attack is underway. Phishing email arrives at the Inbox of an employee in your organization, who unknowingly opens the email attachment. This installs malware, which leads to a chain of events that could end with the theft of sensitive data. But in this case, Defender for Office 365 is in operation.
 
-![[Pasted image 20211104105147.png]]
+![Attack](https://github.com/lassecod2/Windows_365_Defender/blob/main/Pasted%20image%2020211104105147.png)
 
 In the illustration:
 
