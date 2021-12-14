@@ -2,7 +2,7 @@
 
 Microsoft Cloud App security is a comprehensive cross-SaaS solution bringing deep visibility, strong data controls, and enhanced threat protection to your cloud apps.
 
-![[Pasted image 20211104092317.png]]
+![CloudSec](https://github.com/lassecod2/Windows_365_Defender/blob/main/Pasted%20image%2020211104092317.png)
 
 ## The Cloud App Security framework
 
