@@ -2,7 +2,7 @@
 
 Microsoft Defender for Identity uses Active Directory signals to identify, detect, and investigate advanced threats, compromised identities, and malicious insider actions directed at your organization.
 
-![[Pasted image 20211104092256.png]]
+![Defender for Identity]](https://github.com/lassecod2/Windows_365_Defender/blob/main/Pasted%20image%2020211104092256.png)
 
 Microsoft Defender for Identity (formerly Azure Advanced Threat Protection, also known as Azure ATP) is a cloud-based security solution that leverages your on-premises Active Directory signals to identify, detect, and investigate advanced threats, compromised identities, and malicious insider actions directed at your organization.
 
